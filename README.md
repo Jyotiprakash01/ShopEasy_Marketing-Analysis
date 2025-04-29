@@ -288,7 +288,7 @@ ADDCOLUMNS (
 ![image](https://github.com/user-attachments/assets/76e8f034-9400-4fc7-b474-414cb150a26c)
 
 
-Overview:
+## Overview:
 
 Decreased Conversion Rates:
 - The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
@@ -301,7 +301,7 @@ Customer Feedback Analysis:
 - Customer ratings have remained consistent, averaging around 3.7 throughout the year.
 - Although stable, the average rating is below the target of 4.0, suggesting a need for focused improvements in customer satisfaction, for products below 3,5.
 
-Decreased Conversion Rates:
+## Decreased Conversion Rates:
  
 - General Conversion Trend:
 - Throughout the year, conversion rates varied, with higher numbers of products converting successfully in months like February and July. This suggests that while some products had strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted interventions.
@@ -312,7 +312,7 @@ Lowest Conversion Month:
 Highest Conversion Rates:
 - January recorded the highest overall conversion rate at 18.5%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
 
-Reduced Customer Engagement:
+## Reduced Customer Engagement:
  
 Declining Views:
 - Views peaked in February and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
@@ -323,7 +323,7 @@ Low Interaction Rates:
 Content Type Performance:
 - Blog content drove the most views, especially in April and July, while social media and video content maintained steady but slightly lower engagement.
 
-Customer Feedback Analysis:
+## Customer Feedback Analysis:
  
 Customer Ratings Distribution:
 - The majority of customer reviews are in the higher ratings, with 140 reviews at 4 stars and 135 reviews at 5 stars, indicating overall positive feedback. Lower ratings (1-2 stars) account for a smaller proportion, with 26 reviews at 1 star and 57 reviews at 2 stars.
@@ -335,7 +335,7 @@ Opportunity for Improvement:
 - The presence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones, potentially boosting overall ratings. Addressing the specific concerns in mixed reviews could elevate customer satisfaction.
 
 # Goals & Actions:
-Goals:
+## Goals:
 Increase Conversion Rates:
 - Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
 - Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
@@ -348,7 +348,7 @@ Improve Customer Feedback Scores:
 - Goal: Understand common themes in customer reviews and provide actionable insights.
 - Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
-Actions:
+## Actions:
 Increase Conversion Rates:
 - Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
 
